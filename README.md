@@ -1,6 +1,6 @@
-# contract-center-frontend
+# vue2.x-webpack4-boilerplate
 
-> A contract management web
+> 一个基于vue2.x和webpack4的脚手架模板
 
 ## Build Setup
 
