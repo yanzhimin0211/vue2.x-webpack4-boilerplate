@@ -1,0 +1,19 @@
+@import './variable.scss';
+@import './reset.scss';
+
+body {
+  -webkit-user-select: none;
+  user-select: none;
+  font-size: 12px;
+  background: $backgroundColor;
+  font-family: -apple-system, BlinkMacSystemFont, Microsoft YaHei, 'Helvetica Neue', sans-serif;
+  line-height: 1;
+}
+
+*:focus {
+  outline: none;
+}
+
+*, *::before, *::after {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
