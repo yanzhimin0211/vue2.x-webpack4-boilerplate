@@ -34,13 +34,6 @@ module.exports = {
     publicPath: '/',
     proxy: [{
       context: [],
-      // target: 'https://192.168.3.120:8443', //126环境
-      // target: 'https://192.168.3.134:8443', //132环境
-      // target: 'https://ent.bestsign.info',  // 预发布环境
-      // target: 'https://ent2.bestsign.info',  //ent2环境
-      target: 'https://ent3.bestsign.info', //ent3环境
-      // target: 'https://ent4.bestsign.info',  //ent4环境
-      // target: 'http://192.168.3.132',
       changeOrigin: true,
       secure: false
     }],
