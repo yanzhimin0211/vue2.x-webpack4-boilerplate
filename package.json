@@ -1,8 +1,8 @@
 {
-  "name": "contract-center-frontend",
+  "name": "test-frontend",
   "version": "1.0.0",
-  "description": "A contract management web",
-  "author": "zhimin_yan <zhimin_yan@bestsign.cn>",
+  "description": "A test management web",
+  "author": "zhimin_yan",
   "private": false,
   "scripts": {
     "lint": "eslint --ext .vue,.js src",
